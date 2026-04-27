@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "oneblocktetas.aternos.me:46784",
+    "ip": "oneblocktetas.aternos.me",
     "port": 46784,
     "version": "1.21.1",
     "try-creative": false
